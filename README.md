@@ -1,6 +1,6 @@
-# Promise_For_Android
+# Promise
 - Make appointments with friends or coworkers
-- This app can make user manage appointments easily and efficiently
+- This app can make user manage appointments easy and efficient
 
 # Functions
 - User can make a lot of appointments using this app
