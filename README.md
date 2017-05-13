@@ -1,7 +1,7 @@
 # Promise
 - Make appointments with friends or coworkers
 - This app can make user manage appointments easy and efficient
-- This is registered in google store
+- This is registered in Google store
 
 # Functions
 - User can make a lot of appointments using this app
